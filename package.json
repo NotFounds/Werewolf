@@ -4,7 +4,9 @@
   "dependencies": {
     "babel-polyfill": "^6.8.0",
     "clone": "^1.0.2",
+    "combine-section-reducers": "^1.0.4",
     "jsondiffpatch": "^0.2.3",
+    "material-ui": "^0.16.5",
     "react": "^15.0.2",
     "react-dom": "^15.0.1",
     "react-redux": "^4.4.5",
@@ -13,6 +15,7 @@
     "reduce-reducers": "^0.1.2",
     "redux": "^3.5.2",
     "redux-act": "^1.0.0",
+    "redux-actions": "^1.1.0",
     "redux-logger": "^2.6.1",
     "redux-saga": "^0.10.4"
   },

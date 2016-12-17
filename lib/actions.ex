@@ -1,6 +1,6 @@
-defmodule YourApplication.Actions do
-  alias YourApplication.Participant
-  alias YourApplication.Host
+defmodule Werewolf.Actions do
+  alias Werewolf.Participant
+  alias Werewolf.Host
 
   def update_host_contents(data) do
     host = get_action("update contents", Host.filter_data(data))
